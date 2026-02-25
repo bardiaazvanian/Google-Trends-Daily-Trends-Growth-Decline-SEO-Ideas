@@ -13,7 +13,8 @@ This Python script utilizes the `pytrends` library to fetch and analyze trending
 Before running the script, ensure you have the following installed:
 
 * **Python 3.x**
-* **pytrends library:** ```bash
+* **pytrends library:**
+* ```bash
     pip install pytrends
     ```
 * **pandas library:** (Required by pytrends)
